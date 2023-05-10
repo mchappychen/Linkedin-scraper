@@ -1,2 +1,2 @@
 # Linkedin-scraper
-Scrapes linkedin
+Scrapes linkedin for data scientist jobs
